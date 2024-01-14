@@ -1,4 +1,4 @@
-# Pick and Drop Project
+# Pick and Drop Module
 
 ## Overview
 <p>The Pick and Drop project is a web application designed to facilitate the sending of packages from one location to another. <br>
